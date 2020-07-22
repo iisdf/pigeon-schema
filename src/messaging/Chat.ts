@@ -1,4 +1,4 @@
-import { Message } from "./Message";
+import { Message } from "./messages/Message";
 import { ChatID } from "../fundamentals/chat/ChatID";
 import { ChatType } from "../fundamentals/chat/ChatType";
 
