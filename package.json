@@ -1,0 +1,20 @@
+{
+  "name": "@pigeon/schema",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "description": "Schemas for working on Pigeon EM",
+  "author": {
+    "name": "Ivan Petrov",
+    "email": "lazytechwork@gmail.com",
+    "url": "lazytechwork.github.io"
+  },
+  "repository": {
+    "url": "github:iisdf/pigeon-schema",
+    "type": "git"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
