@@ -1,4 +1,4 @@
-export enum SexTypes {
+export enum SexType {
   NA,
   MALE,
   FEMALE,
